@@ -16,6 +16,7 @@ Team-Group:
   * Oier Lopez de Lacalle
   * Esther Miranda
   * Kike Fernandez
+  * Jon Alkorta
   * Maxux Aranzabe
   * Itziar Gonzalez
   * Mikel Lersundi
